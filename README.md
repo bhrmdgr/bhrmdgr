@@ -1,22 +1,62 @@
-# 👋 Hi there, I'm Behram!
+<h1 align="center">Hey there! I'm Behram 👋</h1>
 
-🎓 I'm a passionate developer currently working on AI-powered mobile and web applications. I love creating meaningful products that solve real-world problems — especially when it comes to design, performance, and clean architecture.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Flutter+Enthusiast;AI-Powered+App+Developer;Clean+Architecture+Advocate;Always+learning+🚀" alt="Typing SVG" />
+</p>
 
-## 🚀 What I Do
+---
 
-- 🧠 **AI-Powered Apps** – Currently working at a startup focused on an AI-based travel assistant.
-- 📱 **Mobile Development** – Building Flutter apps using state management and MVVM architecture.
-- 🌐 **Web Projects** – Full-stack experience with Firebase, Flask, React, and MongoDB.
-- 🛠️ **Code Quality** – I care about modular structure, optimization, and clean UI/UX.
+### 👨‍💻 About Me
 
-## 💡 Projects You Should Check
+- 🎯 Passionate about **mobile development** with Flutter and **modern client architectures** like **MVVM**
+- 🤖 Building smart, scalable apps with **AI integration** and **Firebase**
+- 💡 Obsessed with **clean UI/UX**, performance optimization & modular coding
+- 🚀 Currently developing an **AI-powered travel assistant** at a startup
 
-- [🔬 MammoDetectAI](https://github.com/bhrmdgr/MammoDetectAI-Website): AI-based breast cancer detection using deep learning and medical datasets.
-- [🌤️ MysticWeather](https://github.com/bhrmdgr): Fantasy-themed weather app powered by OpenWeatherMap API.
-- [🐾 PatiYuvaa](https://github.com/bhrmdgr): A pet adoption platform with Firebase backend and custom notification system.
-- [🧪 Rick and Morty Learning App](https://github.com/bhrmdgr/rick_and_morty_learning_app): Flutter project using Rick & Morty API to list and display characters.
+---
 
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 
-```text
-Flutter | Dart | Firebase | Flask | MongoDB | Python | React | TypeScript | Git | Figma
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| [🐾 PatiYuvaa](https://github.com/bhrmdgr) | Pet adoption app using Firebase, push notifications, and Provider |
+| [🔬 MammoDetectAI](https://github.com/bhrmdgr) | Breast cancer detection using deep learning & medical image classification |
+| [🌤 MysticWeather](https://github.com/bhrmdgr) | Fantasy-themed SwiftUI weather app with real-time data |
+| [🧪 Rick and Morty App](https://github.com/bhrmdgr/rick_and_morty_learning_app) | Fun Flutter project using Rick & Morty API while learning architecture |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhrmdgr&show_icons=true&theme=react" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=bhrmdgr&theme=react" width="48%" />
+</p>
+
+---
+
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/behramdagar"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+> *“The best way to predict the future is to invent it.” – Alan Kay*
+
