@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Behram 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Flutter+Enthusiast;AI-Powered+App+Developer;Clean+Architecture+Advocate;Always+learning+🚀" alt="Typing SVG" />
+
 </p>
 
 ---
