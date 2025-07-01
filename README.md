@@ -31,7 +31,7 @@
 
 | Project | Description |
 |--------|-------------|
-| [🐾 PatiYuvaa](https://github.com/bhrmdgr) | Pet adoption app using Firebase, push notifications, and Provider |
+| [🐾 PatiYuvaa](https://github.com/bhrmdgr/PatiYuvaa) | Pet adoption app using Firebase, push notifications, and Provider |
 | [🧪 Rick and Morty App](https://github.com/bhrmdgr/rick_and_morty_learning_app) | Fun Flutter project using Rick & Morty API while learning architecture |
 
 ---
