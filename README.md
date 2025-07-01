@@ -32,8 +32,6 @@
 | Project | Description |
 |--------|-------------|
 | [🐾 PatiYuvaa](https://github.com/bhrmdgr) | Pet adoption app using Firebase, push notifications, and Provider |
-| [🔬 MammoDetectAI](https://github.com/bhrmdgr) | Breast cancer detection using deep learning & medical image classification |
-| [🌤 MysticWeather](https://github.com/bhrmdgr) | Fantasy-themed SwiftUI weather app with real-time data |
 | [🧪 Rick and Morty App](https://github.com/bhrmdgr/rick_and_morty_learning_app) | Fun Flutter project using Rick & Morty API while learning architecture |
 
 ---
