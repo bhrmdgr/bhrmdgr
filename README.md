@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm Behram 👋</h1>
+.<h1 align="center">Hey there! I'm Behram 👋</h1>
 
 <p align="center">
 
@@ -10,8 +10,8 @@
 
 - 🎯 Passionate about **mobile development** with Flutter and **modern client architectures** like **MVVM**.
 - 🤖 Building smart, scalable apps with **AI integration** and **Firebase**.
-- 💡 Obsessed with **clean UI/UX**, performance optimization & modular coding
-- 🚀 Currently developing an **AI-powered travel assistant** at a startup
+- 💡 Obsessed with **clean UI/UX**, performance optimization & modular coding.
+- 🚀 Currently developing an **AI-powered travel assistant** at a startup.
 
 ---
 
