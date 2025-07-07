@@ -31,7 +31,7 @@
 
 | Project | Description |
 |--------|-------------|
-| [🐾 PatiYuvaa](https://github.com/bhrmdgr/PatiYuvaa) | Pet adoption app using Firebase, push notifications, and Provider. |
+| [🐾 PatiYuvaa](https://github.com/bhrmdgr/PatiYuvaa) | Pet adoption app using Firebase, push notifications, and Provider |
 | [🎶 Söz Müzik](https://github.com/bhrmdgr/soz_muzik_app) | Flutter app that lists all songs containing a searched word using Genius API, with a clean lyrics-focused UI |
 | [🧪 Rick and Morty App](https://github.com/bhrmdgr/rick_and_morty_learning_app) | Fun Flutter project using Rick & Morty API while learning architecture |
 | [🗒️ Notepad](https://github.com/bhrmdgr/notepad) | A clean and minimal note-taking app with title → subpage structure, built using Flutter and local SQLite storage |
